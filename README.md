@@ -1,6 +1,8 @@
 # Agar.py
 Agar.io Singleplayer written in Python
 
+Start it in console: $ python Agar.py
+
 You play the red cell, the computer plays the blue cell.
 Move with the arrow keys.
 
