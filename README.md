@@ -1,4 +1,6 @@
 # Agar.py
+
+[![Join the chat at https://gitter.im/Ishidres/Agar.py-Singleplayer-written-in-Python](https://badges.gitter.im/Ishidres/Agar.py-Singleplayer-written-in-Python.svg)](https://gitter.im/Ishidres/Agar.py-Singleplayer-written-in-Python?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Agar.io Singleplayer written in Python
 
 Start it in console: $ python Agar.py
