@@ -1,7 +1,7 @@
 # Agar.py
 Agar.io Singleplayer written in Python
 
-Start it in console: $ python Agar.py
+Run in console: $ python Agar.py
 
 You play the red cell, the computer plays the blue cell.
 Move with the arrow keys.
@@ -24,6 +24,6 @@ If you press F1 you can change your size.
 If you press F2 you can change your speed.
 If you press F3 you can chose how much cells have to appear.
   The maximum is 2000 cells.
-If you press F4 everything is like it was before.
+If you press F4 everything resets.
 
 Have fun!
