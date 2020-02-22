@@ -1,4 +1,4 @@
-**Note: I've started coding this project with 8 years as a third graders and haven't updated it since then. Please don't have too high expectations!**
+**Note: I've started coding this project with __8 years__ as a third grader and haven't updated it since then. Please don't have too high expectations!**
 
 # Agar.py
 Agar.io Singleplayer written in Python
